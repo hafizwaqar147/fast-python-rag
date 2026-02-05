@@ -1,0 +1,10 @@
+faiss_index/
+data/
+__pycache__/
+*.pyc
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
